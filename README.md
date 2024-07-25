@@ -4,7 +4,7 @@
 
 Image Steganography is the practice of hiding secret messages within an image file. This technique can be used for secure communication, watermarking, and data hiding. This repository contains a Python implementation of image steganography that allows users to embed and extract messages from images.
 
-## Features
+## Features 
 
 - Embed text messages within various image formats (e.g., PNG, BMP).
 - Extract hidden messages from images.
